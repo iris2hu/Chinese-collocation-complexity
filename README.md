@@ -25,9 +25,9 @@ This project releases the data and codes from the following articles:
 
 ## 2. Chinese Collocation Analyzer 中文搭配分析器
 
-V1.0下载地址：[`https://pan.bnu.edu.cn/l/h1qSHz`](https://pan.bnu.edu.cn/l/h1qSHz)
+填写[`试用申请`](https://www.wjx.top/vm/QD6GdYJ.aspx#)后可获得中文搭配分析器下载地址。 
 
-如下图所示，中文搭配分析器提供了Windows, MacOS (Intel芯片), MacOS (Apple M1芯片)三种客户端程序，支持现代汉语句法搭配自动抽取和句法复杂度指标计算。
+中文搭配分析器提供了Windows, MacOS (Intel), MacOS (Apple M1)三种客户端程序，支持现代汉语句法搭配自动抽取和句法复杂度指标计算。
 
 <img src="cca_tool.jpg" width="600" />
 
