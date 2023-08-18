@@ -89,7 +89,7 @@ This project releases the data and codes from the following articles:
 
 本项目开源了搭配知识库原始数据，包括：
 
-* **textbook_collocation_data.xlsx**: 从二语教材语料库（规模约240万词）中自动抽取的搭配数据。
+* **edu_collocation_data.xlsx**: 从汉语分级阅读语料库子库（规模约240万词）中自动抽取的搭配数据。
 * **wiki_collocation_data.txt.zip**：从中文维基百科（规模约1.38亿词）中自动抽取的搭配数据。
 
 [下载说明](https://github.com/iris2hu/Chinese-collocation-complexity/blob/main/collocation_data/collocation_data.md)
