@@ -4,7 +4,7 @@
 
 本目录提供了中文搭配助手(Chinese Collocation Assisant)所依赖的搭配知识库原始数据，包括：
 
-* **textbook_collocation_data.xlsx**: 从二语教材语料库（规模约240万词）中自动抽取的搭配数据，未经过滤。
+* **edu_collocation_data.xlsx**: 从汉语分级阅读语料库子库（规模约240万词）中自动抽取的搭配数据，未经过滤。
 * **wiki_collocation_data.txt.zip**：从中文维基百科（规模约1.38亿词）中自动抽取的搭配数据，因原始文件较大，此处保留了频次>=2的搭配，并用txt压缩存储，文本以\t分隔各列。
 
 **2. 知识库属性**
